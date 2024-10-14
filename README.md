@@ -7,11 +7,6 @@ I'm a **junior at Michigan State University** majoring in **Computer Science** w
 - **Algorithms**: Improving computational efficiency for large data sets.
 - **Mobile development**: Creating smooth, user-friendly mobile apps using React Native.
 
-## 💻 Projects I'm Proud Of
-### [WasteLess](https://github.com/johnkorreck/WasteLess) - Hackathon Project
-- Collaborated with a team to build a web app that generates recipes from leftover food using AI.
-- Implemented using **Svelte** and **FastAPI** with an OpenAI-powered backend.
-
 ## 📚 Skills
 - **Languages**: C++, Python, JavaScript/TypeScript
 - **Frameworks**: React, Next.js
