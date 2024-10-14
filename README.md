@@ -3,7 +3,7 @@
 I'm a **junior at Michigan State University** majoring in **Computer Science** with a passion for solving problems and building scalable software. From full-stack web development to algorithm design, I love to create things that make an impact!
 
 ## 🌱 What I'm Learning
-- **Mobile development**: Creating smooth, user-friendly mobile apps using React Native.
+- **Full-Stack development**: Creating smooth, user-friendly mobile apps using React Native.
 - **Algorithms**: Improving computational efficiency for large data sets.
 - **Backend development**: Building secure, scalable APIs.
 
