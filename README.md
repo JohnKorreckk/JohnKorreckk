@@ -4,7 +4,7 @@ I'm a **junior at Michigan State University** majoring in **Computer Science** w
 
 ## 🌱 What I'm Learning
 - **Full-Stack development**: Creating smooth, user-friendly GUIs with practical applications.
-- **Algorithms**: Improving computational efficiency for large data sets by improving my knowledge of Data Structures and Algorithms.
+- **Algorithms**: Improving computational efficiency for large data sets by leveraging my knowledge of Data Structures and Algorithms.
 - **Backend development**: Studies focused in computer architecture, computer systems, and networks.
 
 ## 📚 Skills
