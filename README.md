@@ -1,6 +1,6 @@
 # 👋 Hi, I'm John Korreck!
 
-I'm a **junior at Michigan State University** majoring in **Computer Science** with a passion for solving problems and building scalable software.
+I'm a **senior at Michigan State University** majoring in **Computer Science** with a passion for solving problems and building scalable software.
 
 ## 🌱 What I'm Learning
 - **Backend development**: Developing scalable APIs and backend frameworks to tackle tough problems.
